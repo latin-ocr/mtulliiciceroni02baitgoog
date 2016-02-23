@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni02baitgoog_0358.png"; bbox 0 0 2259 4175; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1080 577 1879 671">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1080 577 1879 671">
+     <span class='ocr_line' id='line_1_1' title="bbox 1080 577 1879 671; baseline 0.026 -70"><span class='ocrx_word' id='word_1_1' title='bbox 1080 577 1198 607; x_wconf 77' lang='lat' dir='ltr'>uuu</span> <span class='ocrx_word' id='word_1_2' title='bbox 1221 577 1492 645; x_wconf 66' lang='grc' dir='ltr'>08131οη3,</span> <span class='ocrx_word' id='word_1_3' title='bbox 1523 577 1791 661; x_wconf 44' lang='lat' dir='ltr'>dal-iffi&amp;</span> <span class='ocrx_word' id='word_1_4' title='bbox 1811 610 1879 671; x_wconf 55' lang='lat' dir='ltr'>vil</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1072 630 1470 729">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1072 630 1470 729">
+     <span class='ocr_line' id='line_1_2' title="bbox 1072 630 1470 729; baseline 0.008 -18"><span class='ocrx_word' id='word_1_5' title='bbox 1072 630 1266 729; x_wconf 53' lang='lat' dir='ltr'>”fsque</span> <span class='ocrx_word' id='word_1_6' title='bbox 1277 644 1470 715; x_wconf 83' lang='lat' dir='ltr'>homin</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
